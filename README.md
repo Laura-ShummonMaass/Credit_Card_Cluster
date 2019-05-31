@@ -4,6 +4,7 @@
 **Scheduled project review date/time:** 05/31/2019  
 **Instructors:** Miles Erickson & Greg Damico  
 **Slide Deck Presentation**
+https://docs.google.com/presentation/d/1_NK1dBJbAH0DQUpukLBN0pjofQlagDZlko5uAmfC1Sg/edit?usp=sharing
 
 ### Business Case:
 Determine appropriate customers to market loans to. Find the main customer segments and target the customers we feel would be most interested and eligible for credit approvals. 
