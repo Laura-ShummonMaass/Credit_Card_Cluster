@@ -19,7 +19,7 @@ We started off with K-Means Clustering to locate the primary customer groups. Th
 In order to see the differences between the features of each group we needed to make a radar plot for each group. This was how we were able to define the groups into the various labels:
 * Inactive
 * Irresponsible
-* Only Loans
+* Only Loans     
 And our target groups:
 * Responsible
 * Wealthy
